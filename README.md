@@ -6,6 +6,9 @@
 ## APK
 [Download APK](link)
 
+## Source Code
+[View Source Code](https://github.com/nguyenkhacnhat203-dev/BlockPuzzle)
+
 ---
 
 ## 1. Tổng quan
