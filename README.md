@@ -1,10 +1,10 @@
 # Block Puzzle
 
 ## Video Gameplay
-[Watch Gameplay](link)
+[Watch Gameplay](https://youtube.com/shorts/lrzIIYXpP3U)
 
 ## APK
-[Download APK](link)
+[Download APK](https://github.com/Tang979/GDD_APK_Block_Puzzle/releases)
 
 ## Source Code
 [View Source Code](https://github.com/nguyenkhacnhat203-dev/BlockPuzzle)
